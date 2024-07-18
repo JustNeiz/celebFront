@@ -1,0 +1,13 @@
+html{
+  scroll-behavior: smooth;
+}
+ body{
+  background-color: #121C24;
+  color: white;
+  scroll-behavior: smooth;
+ }
+
+ .hover:hover{
+    background-color: rgba(0, 0, 0, 0);
+  }
+ 
