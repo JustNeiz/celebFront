@@ -22,6 +22,7 @@ const ExamplesContainer = () => {
         nam assumenda ea. Doloribus pariatur iusto reiciendis inventore, maxime
         excepturi dolores qui.
       </Text>
+        <Text>1231</Text>
       <ScrollAreaExamples />
     </Flex>
   );
